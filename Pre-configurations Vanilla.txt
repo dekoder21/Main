@@ -1,0 +1,292 @@
+Machine ---> Preserver jar --> 
+	Level --> Iron
+		 (1) 105% speed production
+		 (2) Same quality even silver
+		 (3) New productions
+	Level --> Gold
+		 (1) 110% speed production
+		 (2) Same quality even gold
+		 (3) New productions
+ 	Level --> Diamond
+		 (1) 115% speed production
+		 (2) Same quality
+		 (3) New productions
+	Level --> Iridium
+		 (1) 120% speed production
+		 (2) Same quality
+		 (3) New productions
+		 (4) 4% chance to double production
+	Level --> Radioactive
+		 (1) 125% speed production
+		 (2) Same quality
+		 (3) New productions
+		 (4) 8% chance to double production
+	Level --> Prismatic
+		 (1) 130% speed production
+		 (2) Same quality
+		 (3) New productions
+		 (4) 12% chance to double production
+Machine --> cask
+	Level --> Iron
+		 (1) 105% speed production
+		 (2) New productions
+	Level --> Gold
+		 (1) 110% speed production
+		 (2) New productions
+ 	Level --> Diamond
+		 (1) 115% speed production
+		 (2) New productions
+	Level --> Iridium
+		 (1) 120% speed production
+		 (2) New productions
+		 (3) 4% chance to double production
+	Level --> Radioactive
+		 (1) 125% speed production
+		 (2) New productions
+		 (3) 8% chance to double production
+		 (4) Works outdoors
+	Level --> Prismatic
+		 (1) 130% speed production
+		 (2) New productions
+		 (3) 12% chance to double production
+		 (4) Works outdoors
+Machine --> keg
+	Level --> Iron
+		 (1) 105% speed production
+		 (2) Same quality even silver
+		 (3) New productions
+	Level --> Gold
+		 (1) 110% speed production
+		 (2) Same quality even gold
+		 (3) New productions
+ 	Level --> Diamond
+		 (1) 115% speed production
+		 (2) Same quality
+		 (3) New productions
+	Level --> Iridium
+		 (1) 120% speed production
+		 (2) Same quality
+		 (3) New productions
+		 (4) 4% chance to double production
+	Level --> Radioactive
+		 (1) 125% speed production
+		 (2) Same quality
+		 (3) New productions
+		 (4) 8% chance to double production
+	Level --> Prismatic
+		 (1) 130% speed production
+		 (2) Same quality
+		 (3) New productions
+		 (4) 12% chance to double production
+Machine --> Dehydrator
+	Level --> Iron
+		 (1) 105% speed production
+		 (2) Same quality even silver
+		 (3) New productions
+	Level --> Gold
+		 (1) 110% speed production
+		 (2) Same quality even gold
+		 (3) New productions
+ 	Level --> Diamond
+		 (1) 115% speed production
+		 (2) Same quality
+		 (3) New productions
+	Level --> Iridium
+		 (1) 120% speed production
+		 (2) Same quality
+		 (3) New productions
+		 (4) Now only need 4 Fruit/Mushrooms/Raisins
+		 (5) 4% chance to double production
+	Level --> Radioactive
+		 (1) 125% speed production
+		 (2) Same quality
+		 (3) New productions
+		 (4) Now only need 4 Fruit/Mushrooms/Raisins
+		 (5) 8% chance to double production
+	Level --> Prismatic
+		 (1) 130% speed production
+		 (2) Same quality
+		 (3) New productions
+		 (4) Now only need 4 Fruit/Mushrooms/Raisins
+		 (5) 12% chance to double production
+
+Machine --> Furnace
+
+	Level --> Iron
+		 (1) Need only 5 ores and 1 coal --> 1 Bar
+		 (2) New productions 
+	Level --> Gold
+		 (1) Need only 4 ores and 1 coal --> 1 Bar
+		 (2) New productions
+ 	Level --> Diamond
+		 (1) Need 7 ores and 2 coal --> 2 Bar
+		 (2) New productions
+	Level --> Iridium
+		 (1) Need 6 ores and 2 coal --> 2 Bar
+		 (2) New productions
+		 (3) 4% chance to double production
+	Level --> Radioactive
+		 (1) Need 20 ores and 3 coal --> (5-6) Bar
+		 (2) New productions
+		 (3) 8% chance to double production
+	Level --> Prismatic
+		 (1) Need 15 ores and 3 coal --> (6) Bar
+		 (2) New productions
+		 (3) 12% chance to double production
+
+
+Machine --> Crab Pots
+
+	Conditions --
+		 (1) Without anything, the normal fishing from a crab pot.
+		 (2) With wood garbage fishing.
+		 (3) With bait he catches fish except furniture.
+
+	Level --> Iron
+		 (1) Fishing silver quality fish except trash
+	Level --> Gold
+		 (1) Fishing gold quality fish except trash
+ 	Level --> Diamond
+		 (1) Fishing gold quality fish except trash
+		 (2) 3% chance to double fishing
+		 (3) 25% chance to catch some extra fish or trash
+	Level --> Iridium
+		 (1) Fishing iridium quality fish except trash
+		 (2) 6% chance to double fishing
+		 (3) 50% chance to catch some extra fish or trash	
+	Level --> Radioactive
+		 (1) Fishing iridium quality fish except trash
+		 (2) 9% chance to double fishing
+		 (3) 75% chance to catch some extra fish or trash
+	Level --> Prismatic
+		 (1) Fishing iridium quality fish except trash
+		 (2) 12% chance to double fishing
+		 (3) 100% chance to catch some extra fish or trash
+Machine --> Charcoal Kiln
+
+	Conditions --
+		 (1) Torch --> Coal
+		 (2) Wood (10) --> Coal
+		 (3) Hardwood (1) --> Coal
+
+	Level --> Iron
+		 (1) Torch --> Coal (1)
+		 (2) Wood (9) --> Coal (1)
+		 (3) Hardwood (1) --> Coal (1)
+	Level --> Gold		 
+		 (1) Torch --> Coal (1)
+		 (2) Wood (8) --> Coal (1)
+		 (3) Hardwood (1) --> Coal (1)
+ 	Level --> Diamond
+		 (1) Torch --> Coal (1-2)
+		 (2) Wood (7) --> Coal (1)
+		 (3) Hardwood (1) --> Coal (1-2)
+	Level --> Iridium
+		 (1) Torch --> Coal (1-2)
+		 (2) Wood (6) --> Coal (1)
+		 (3) Hardwood (1) --> Coal (1-2)
+		 (4) 4% chance to double production	
+	Level --> Radioactive
+		 (1) Torch --> Coal (1-2)
+		 (2) Wood (5) --> Coal (1)
+		 (3) Hardwood (1) --> Coal (1-3)
+		 (4) 8% chance to double production
+	Level --> Prismatic
+		 (1) Torch --> Coal (1-3)
+		 (2) Wood (5) --> Coal (1-2)
+		 (3) Hardwood (1) --> Coal (1-3)
+		 (4) 12% chance to double production
+Machine --> Recycling machine
+	Level --> Iron
+		 (1) 	25% chance to Trash --> iron (1-3)
+			30% chance to Trash --> Coal (1-3)
+			45% chance to Trash --> Stone (1-3).
+		 (2) 	60% chance to Driftwood --> Wood (1-3)
+			30% chance to Driftwood --> Coal (1-3)
+			5% chance to Driftwood --> Hardwood (1-2)
+    		 (3) 	75% chance to Soggy Newspaper --> Torch (1-3)
+			25% chance to Soggy Newspaper --> cloth (1)  Quality(85% normal,15% Silver) 
+		 (4) 	95% chance to Broken CD, Broken Glasses --> Refined Quarz (1)
+			5% chance to Broken CD, Broken Glasses --> Iron Bar (1)
+	Level --> Gold
+		 (1) 	30% chance to Trash --> Iron (1-3)
+			5% chance to Trash --> Gold (1-3)
+			35% chance to Trash --> Coal (1-3)
+			30% chance to Trash --> Stone (1-3).
+		 (2) 	50% chance to Driftwood --> Wood (1-3)
+			40% chance to Driftwood --> Coal (1-3)
+			10% chance to Driftwood --> Hardwood (1-2)
+    		 (3) 	70% chance to Soggy Newspaper --> Torch (1-3)
+			30% chance to Soggy Newspaper --> cloth (1) Quality(70% normal,20% Silver,10% Gold) 
+		 (4) 	85% chance to Broken CD, Broken Glasses --> Refined Quarz (1)
+			10% chance to Broken CD, Broken Glasses --> Iron Bar (1)
+			5% chance to Broken CD, Broken Glasses --> Gold Bar (1)
+ 	Level --> Diamond
+		 (1) 	30% chance to Trash --> Iron (1-3)
+			5% chance to Trash --> Gold (1-3)
+			1% chance to Trash --> Diamond (1-3)
+			35% chance to Trash --> Coal (1-3)
+			29% chance to Trash --> Stone (1-3).
+		 (2) 	45% chance to Driftwood --> Wood (1-3)
+			40% chance to Driftwood --> Coal (1-3)
+			15% chance to Driftwood --> Hardwood (1-2)
+    		 (3) 	65% chance to Soggy Newspaper --> Torch (1-3)
+			35% chance to Soggy Newspaper --> cloth (1) Quality(60% normal,25% Silver,15% Gold) 
+		 (4) 	76% chance to Broken CD, Broken Glasses --> Refined Quarz (1)
+			15% chance to Broken CD, Broken Glasses --> Iron Bar (1)
+			8% chance to Broken CD, Broken Glasses --> Gold Bar (1)
+			1% chance to Broken CD, Broken Glasses --> Diamond (1)
+	Level --> Iridium
+		 (1) 	30% chance to Trash --> Iron (1-3)
+			10% chance to Trash --> Gold (1-3)
+			5% chance to Trash --> Iridium (1-3)
+			2% chance to Trash --> Diamond (1-3)
+			35% chance to Trash --> Coal (1-3)
+			18% chance to Trash --> Stone (1-3).
+		 (2) 	40% chance to Driftwood --> Wood (1-3)
+			40% chance to Driftwood --> Coal (1-3)
+			20% chance to Driftwood --> Hardwood (1-2)
+    		 (3) 	55% chance to Soggy Newspaper --> Torch (1-3)
+			45% chance to Soggy Newspaper --> cloth (1) Quality(40% normal,30% Silver,20% Gold,10% Iridium) 
+		 (4) 	64% chance to Broken CD, Broken Glasses --> Refined Quarz (1)
+			20% chance to Broken CD, Broken Glasses --> Iron Bar (1)
+			12% chance to Broken CD, Broken Glasses --> Gold Bar (1)
+			2% chance to Broken CD, Broken Glasses --> Iridium Bar (1)
+			2% chance to Broken CD, Broken Glasses --> Diamond (1)	
+	Level --> Radioactive
+		 (1) 	30% chance to Trash --> Iron (1-3)
+			15% chance to Trash --> Gold (1-3)
+			8% chance to Trash --> Iridium (1-3)
+			5% chance to Trash --> Radioactive (1-3)
+			3% chance to Trash --> Diamond (1-3)
+			30% chance to Trash --> Coal (1-3)
+			9% chance to Trash --> Stone (1-3).
+		 (2) 	35% chance to Driftwood --> Wood (1-3)
+			40% chance to Driftwood --> Coal (1-3)
+			25% chance to Driftwood --> Hardwood (1-2)
+    		 (3) 	40% chance to Soggy Newspaper --> Torch (1-3)
+			60% chance to Soggy Newspaper --> cloth (1) Quality(20% normal,40% Silver,25% Gold,15% Iridium) 
+		 (4) 	55% chance to Broken CD, Broken Glasses --> Refined Quarz (1)
+			25% chance to Broken CD, Broken Glasses --> Iron Bar (1)
+			16% chance to Broken CD, Broken Glasses --> Gold Bar (1)
+			1% chance to Broken CD, Broken Glasses --> Radioctive Bar (1) 
+			3% chance to Broken CD, Broken Glasses --> Diamond (1)	
+	Level --> Prismatic
+		 (1) 	30% chance to Trash --> Iron (1-3)
+			20% chance to Trash --> Gold (1-3)
+			12% chance to Trash --> Iridium (1-3)
+			8% chance to Trash --> Radioactive (1-3)
+			4% chance to Trash --> Diamond (1-3)
+			1% chance to Trash --> Prismatic Shard (1)
+			25% chance to Trash --> Coal (1-3)
+		 (2) 	30% chance to Driftwood --> Wood (1-3)
+			40% chance to Driftwood --> Coal (1-3)
+			30% chance to Driftwood --> Hardwood (1-2)
+    		 (3) 	40% chance to Soggy Newspaper --> Torch (1-3)
+			60% chance to Soggy Newspaper --> cloth (1) Quality(20% normal,40% Silver,25% Gold,15% Iridium) 
+		 (4) 	48% chance to Broken CD, Broken Glasses --> Refined Quarz (1)
+			25% chance to Broken CD, Broken Glasses --> Iron Bar (1)
+			20% chance to Broken CD, Broken Glasses --> Gold Bar (1)
+			2% chance to Broken CD, Broken Glasses --> Radioctive Bar (1) 
+			4% chance to Broken CD, Broken Glasses --> Diamond (1)	
+			1% chance to Trash --> Prismatic Shard (1)
